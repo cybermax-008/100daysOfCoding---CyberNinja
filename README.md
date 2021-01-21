@@ -20,7 +20,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Today's Project(s) :**
  - Github Profile and Repo
  - Twitter profile
- - [Learning How to Learn MOOC](https://www.coursera.org/learn/learning-how-to-learn "Coursera: Learning How to Learn")
+ - FCC Profile
  
  **Progress:**
  
