@@ -1,0 +1,7 @@
+/* [ ] is used to get a character at a specific index within a string. In JS, count of index starts from 0*/
+// Setup
+var firstLetterOfLastName = "";
+var lastName = "Lovelace";
+
+// Only change code below this line
+firstLetterOfLastName = lastName[0]; // Change this line

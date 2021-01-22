@@ -1,0 +1,6 @@
+/* .pop() removes last element, what if you want to remove the first element. */
+// Setup
+var myArray = [["John", 23], ["dog", 3]];
+
+// Only change code below this line
+var removedFromMyArray = myArray.shift();

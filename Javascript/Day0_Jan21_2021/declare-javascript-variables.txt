@@ -1,0 +1,5 @@
+// There are 8 different data types in JavaScript
+/* They are undefined, null, boolean, string, symbol, bigint, number and object */
+
+// To create a variable, we use the keyword 'var'
+var myName;

@@ -1,0 +1,11 @@
+/* In Javascript, all variables and function names are case sensitive. 'MYVAR' is not same as 'MyVar' nor 'myvar'. Best practive of writing variables are using 'camelCase'. In camelCase, multi-word variable names have the first word in lowercase and the first letter of each subsequent word is captalized. */
+
+// Variable declarations
+var studlyCapVar;
+var properCamelCase;
+var titleCaseOver;
+
+// Variable assignments
+studlyCapVar = 10;
+properCamelCase = "A String";
+titleCaseOver = 9000;

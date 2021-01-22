@@ -1,0 +1,4 @@
+//Declaring a string variable 
+
+var myFirstName = "Surya"
+var myLastName = "Murugaian"

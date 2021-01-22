@@ -1,0 +1,3 @@
+/* It is common to initialize value to a variable in the same line as it is declared */
+
+var a = 9;

@@ -1,0 +1,11 @@
+/* When you declare a variable without initializing with any value. By default it is initialized with 'undefined'. If you do any mathematical operation on this variable, that will result in 'NaN' which means 'Not a Number'. If you concatenate a string with an 'undefined' variable, you will get a literal string of "undefined" */
+
+// Only change code below this line
+var a = 5;
+var b = 10;
+var c = "I am a";
+// Only change code above this line
+
+a = a + 1;
+b = b + 5;
+c = c + " String!";

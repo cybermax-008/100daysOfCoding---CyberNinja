@@ -1,0 +1,8 @@
+/* To find the lenght of a string, we use .length property on string variable */
+// Setup
+var lastNameLength = 0;
+var lastName = "Lovelace";
+
+// Only change code below this line
+
+lastNameLength = lastName.length;

@@ -1,0 +1,4 @@
+// This is an in-line comment
+// You can make multi-line comment using /* and */
+/* This is a
+multi-line comment */

@@ -1,0 +1,3 @@
+/* Arrays are basic data structure we use to store multiple values in one varaible. */
+// Only change code below this line
+var myArray = ["Surya", 8];

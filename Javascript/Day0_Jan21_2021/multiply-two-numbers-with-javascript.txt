@@ -1,0 +1,2 @@
+// We use * for multiply
+var product = 8 * 10;

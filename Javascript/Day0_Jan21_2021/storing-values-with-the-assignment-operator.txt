@@ -1,0 +1,7 @@
+/* To store a value to a variable, we use '='. This is called as 'assignment operator'. */
+
+// Setup
+var a;
+
+// Only change code below this line
+a = 7;

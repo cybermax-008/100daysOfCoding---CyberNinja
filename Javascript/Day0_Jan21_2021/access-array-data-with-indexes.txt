@@ -1,0 +1,6 @@
+/* Just like strings, we can access array elements using indexes*/
+// Setup
+var myArray = [50,60,70];
+
+// Only change code below this line
+var myData = myArray[0];

@@ -1,0 +1,7 @@
+// To reuse a bunch of code, we use functions. 
+
+function reusableFunction(){
+    console.log("Hi World"); 
+}
+
+reusableFunction();

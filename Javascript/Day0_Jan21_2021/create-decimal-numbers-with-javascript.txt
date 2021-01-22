@@ -1,0 +1,5 @@
+/* Create float data type, usually referred as decimal numbers. */
+var ourDecimal = 5.7;
+
+// Only change code below this line
+var myDecimal = 3.2;
