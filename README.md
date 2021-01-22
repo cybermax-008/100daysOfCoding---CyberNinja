@@ -13,6 +13,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Code daily either python, javascript, elixir or C++
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms
+### Day 1: January 22, 2021 - Friday
+
+**Today's Project(s) :**
+  - FCC : JS Algo and DS
+  - Python CCC solutions
+  - C++ Hacker rank
+ 
+ **Progress:**
+  - completed 59 to 91 code snippets in Basic JS: JS Algo and DS track. 
+  
+ **Link to work:**
+ - [Exercise 59 to 91(see the timeline)](https://www.freecodecamp.org/cybermax008)
+ 
+ **Thoughts:**
 
 ## Pre-launch - Github,Twitter and plan
 ### Day 0: January 21, 2021 - Thursday
@@ -23,7 +37,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
  - FCC Profile
  
  **Progress:**
- 
+  - Completed creation github repo and FCC profile.
+  - Started "Javscript Algorithms and Data structure Certification" - completed 58/111 exercises in Baisc JS.
+  
  **Link to work:**
+ [Exercises 1 to 58 : baisc JS(See the timeline)](https://www.freecodecamp.org/learn)
  
  **Thoughts:**
+Happy to begin this journey! Believe It!
