@@ -1,0 +1,12 @@
+/* Introducing Objects in jS -
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/build-javascript-objects 
+*/
+
+var myDog = {
+// Only change code below this line
+    name:"Dheeran",
+    legs:4,
+    tails:1,
+    friends:["Jimmy","Browny"]
+// Only change code above this line
+};
