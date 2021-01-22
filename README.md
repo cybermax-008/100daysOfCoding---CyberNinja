@@ -17,11 +17,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Today's Project(s) :**
   - FCC : JS Algo and DS
-  
+  - Python CCC solutions
+  - C++ Hacker rank
  
  **Progress:**
-
+  - completed 59 to 91 code snippets in Basic JS: JS Algo and DS track. 
+  
  **Link to work:**
+ - [Exercise 59 to 91(see the timeline)](https://www.freecodecamp.org/cybermax008)
  
  **Thoughts:**
 
