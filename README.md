@@ -13,6 +13,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Code daily either python, javascript, elixir or C++
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms
+### Day 1: January 22, 2021 - Friday
+
+**Today's Project(s) :**
+  - FCC : JS Algo and DS
+  
+ 
+ **Progress:**
+
+ **Link to work:**
+ 
+ **Thoughts:**
 
 ## Pre-launch - Github,Twitter and plan
 ### Day 0: January 21, 2021 - Thursday
