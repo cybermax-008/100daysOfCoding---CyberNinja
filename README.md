@@ -27,8 +27,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
   
  **Link to work:**
  - [Exercise 59 to 91(see the timeline)](https://www.freecodecamp.org/cybermax008)
+ - [Python programs on datetime](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day1_Jan22_2021)
+ - [Elixir intro programs on defmodules](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Elixir/Day1_Jan22_2021)
  
  **Thoughts:**
+ Was able to code for 2 hours! Feeling productive and postive towards this journey.
 
 ## Pre-launch - Github,Twitter and plan
 ### Day 0: January 21, 2021 - Thursday
@@ -44,8 +47,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
   
  **Link to work:**
   - [Exercises 1 to 58 : baisc JS(See the timeline)](https://www.freecodecamp.org/learn)
-  - [Python programs on datetime](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day1_Jan22_2021)
-  - [Elixir intro programs on defmodules](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Elixir/Day1_Jan22_2021)
  
  **Thoughts:**
 Happy to begin this journey! Believe It!
