@@ -45,7 +45,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
  **Link to work:**
   - [Exercises 1 to 58 : baisc JS(See the timeline)](https://www.freecodecamp.org/learn)
   - [Python programs on datetime](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day1_Jan22_2021)
-  - [Elixir intro programs on defmodules]()
+  - [Elixir intro programs on defmodules](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Elixir/Day1_Jan22_2021)
  
  **Thoughts:**
 Happy to begin this journey! Believe It!
