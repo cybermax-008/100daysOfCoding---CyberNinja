@@ -17,11 +17,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Today's Project(s) :**
   - FCC : JS Algo and DS
-  - Python CCC solutions
-  - C++ Hacker rank
+  - Python : datetime module
+  - Elixir - Introduction to defmodules
  
  **Progress:**
   - completed 59 to 91 code snippets in Basic JS: JS Algo and DS track. 
+  - Completed two programs using datetime module in python
+  - Started learning Elixir - completed three sample programs using defmodules
   
  **Link to work:**
  - [Exercise 59 to 91(see the timeline)](https://www.freecodecamp.org/cybermax008)
@@ -41,7 +43,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
   - Started "Javscript Algorithms and Data structure Certification" - completed 58/111 exercises in Baisc JS.
   
  **Link to work:**
- [Exercises 1 to 58 : baisc JS(See the timeline)](https://www.freecodecamp.org/learn)
+  - [Exercises 1 to 58 : baisc JS(See the timeline)](https://www.freecodecamp.org/learn)
+  - [Python programs on datetime](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day1_Jan22_2021)
+  - [Elixir intro programs on defmodules]()
  
  **Thoughts:**
 Happy to begin this journey! Believe It!
