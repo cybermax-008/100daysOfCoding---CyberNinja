@@ -19,6 +19,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Today's Project(s) :**
   - FCC : JS Algo and DS
   - Python : Checking the test case scores 
+  
  **Progress:**
   - completed 92 to 100 code snippets in Basic JS: JS Algo and DS track. 
   - Was able to complete the code that computes the score of test suite performance.
