@@ -13,6 +13,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Code daily either python, javascript, elixir or C++
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms
+
+### Day 2: January 23, 2021 - Saturday
+
+**Today's Project(s) :**
+  - FCC : JS Algo and DS
+  - Python : Checking the test case scores 
+ **Progress:**
+  - completed 92 to 100 code snippets in Basic JS: JS Algo and DS track. 
+  - Was able to complete the code that computes the score of test suite performance.
+  
+ **Link to work:**
+ - [Exercise 59 to 91(see the timeline)](https://www.freecodecamp.org/cybermax008)
+ - [Test_Suite_score](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/blob/main/Python/Day2_Jan23_2021/Score_Test_cases.py)
+ 
+ **Thoughts:**
+ Bit off the track today! Need to be more determined from tomorrow.
+
 ### Day 1: January 22, 2021 - Friday
 
 **Today's Project(s) :**
