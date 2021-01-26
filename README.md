@@ -14,6 +14,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms
 
+### Day 3: January 25, 2021 - Monday
+
+**Today's Project(s) :**
+  - Python : CCC contest 2008 and 2009 questions([question_link]())
+ **Progress:**
+  - completed J1, J2 and J3 in 2008
+  - completed J1 and J2 in 2009
+  
+ **Link to work:**
+ - [Python solutions for CCC 2008 and 2009]()
+ 
+ **Thoughts:**
+Time spent in coding : 2 hr 48min. Though i was able to do only 5 questions, learned new things.
+
 ### Day 2: January 23, 2021 - Saturday
 
 **Today's Project(s) :**
