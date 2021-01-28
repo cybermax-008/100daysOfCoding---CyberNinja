@@ -1,0 +1,6 @@
+//Casting of string to integer using : parseInt
+function convertToInteger(str) {
+    return parseInt(str);
+}
+
+convertToInteger("56");

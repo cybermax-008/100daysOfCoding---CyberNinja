@@ -1,0 +1,7 @@
+/* Convert any string to integer, where the number represented in string can be of any base.
+parseInt(string,radix) - here radix takes the base value */
+function convertToInteger(str) {
+    return parseInt(str,2);
+}
+
+convertToInteger("10011");
