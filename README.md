@@ -10,15 +10,45 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Goals
 
-- [ ] Code daily either python, javascript, elixir or C++
+- [ ] Code daily either python, javascript, elixir or C++.
 - [ ] Become proficient in problem solving.
-- [ ] Become proficient in Data structures and Algorithms
+- [ ] Become proficient in Data structures and Algorithms.
+
+### Day 7: January 29, 2021 - Friday
+
+**Today's Project(s) :**
+  - FCC : JS - ES6 track
+  
+ **Progress:**
+  - Completed 0 to 15 problems in ES6 track.
+  - Learned about arrow function, usage of `let`, `var` and `const`, rest parameter to get variable arguments in functions, spread parameter to unpack array elements, Deconstructive assignment to extarct values from the object, assign variables to object, pass an object as function parameter. 
+  
+ **Link to work:**
+ - [CCC_2010 & CCC_2011](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day6_Jan28_2021)
+ 
+ **Thoughts:**
+ Time spent: 1hr 30mins. I struggle with problems that involve finding possible combinations of acheiving a sum or target.
+
+### Day 6: January 28, 2021 - Thursday
+
+**Today's Project(s) :**
+  - Python : few problems from CCC_2010 and CCC_2011 
+  
+ **Progress:**
+  - Completed J1 from 2011 and J2,J3 from 2010
+  
+ **Link to work:**
+ - [CCC_2010 & CCC_2011](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day6_Jan28_2021)
+ 
+ **Thoughts:**
+ Time spent: 1hr 30mins. I struggle with problems that involve finding possible combinations of acheiving a sum or target.
 
 ### Day 5: January 27, 2021 - Wednesday
 
 **Today's Project(s) :**
   - Python : CCC_2010 J1 and Element-wise arithematic ops for two lists
   - FCC : JS Basics track 
+  
  **Progress:**
   - Problem J1: What is n, Daddy? CCC 2010.
   - Element-wise arithematic ops of two lists using List comprehension
@@ -28,6 +58,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
  - [J1 CCC 2010](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day5_Jan27_2021)
  - [Element-wise Arithematic ops](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day5_Jan27_2021)
  - [FCC JS Basics - Exercise 101 to 108(see the timeline)](https://www.freecodecamp.org/cybermax008)
+ 
  **Thoughts:**
 Time spent in coding : 1hr 40min. Learned Graph and BFS from hacker earth. Still need to practice more problems in this topipc.
 In Javascript, Learned and solved problems on Recursion. But, still unable to understand its working beneth the hood.
