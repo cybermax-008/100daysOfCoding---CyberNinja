@@ -24,10 +24,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
   - Learned about arrow function, usage of `let`, `var` and `const`, rest parameter to get variable arguments in functions, spread parameter to unpack array elements, Deconstructive assignment to extarct values from the object, assign variables to object, pass an object as function parameter. 
   
  **Link to work:**
- - [CCC_2010 & CCC_2011](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day6_Jan28_2021)
+ - [ES6 0 to 15](https://www.freecodecamp.org/cybermax008)
  
  **Thoughts:**
- Time spent: 1hr 30mins. I struggle with problems that involve finding possible combinations of acheiving a sum or target.
+ Time spent: 1hr 30mins. Learned a lot of new concepts in Javascript that are unique to this language alone.
 
 ### Day 6: January 28, 2021 - Thursday
 
