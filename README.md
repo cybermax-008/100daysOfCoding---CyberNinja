@@ -14,6 +14,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
+### Day 8: January 30, 2021 - Saturday
+
+**Today's Project(s) :**
+  - FCC : JS - ES6 track
+  
+ **Progress:**
+  - Completed 15 to 31 problems in ES6 track. All problems are completed in this track now.
+  - 
+  
+ **Link to work:**
+ - [ES6 15 to 31](https://www.freecodecamp.org/cybermax008)
+ 
+ **Thoughts:**
+ Time spent:
+
 ### Day 7: January 29, 2021 - Friday
 
 **Today's Project(s) :**
