@@ -18,16 +18,19 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Today's Project(s) :**
   - FCC : JS - ES6 track
+  - Python : CCC 2011 and CCC 2012
   
  **Progress:**
   - Completed 15 to 31 problems in ES6 track. All problems are completed in this track now.
-  - 
+  - COmpleted J2 and J3 in CCC 2011
+  - COmpleted J1,J2 and J3 in CCC 2012
   
  **Link to work:**
  - [ES6 15 to 31](https://www.freecodecamp.org/cybermax008)
+ - [CCC 2011 and CCC 2012](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day8_Jan30_2021)
  
  **Thoughts:**
- Time spent:
+ Time spent: 2hrs. Wsa able to solve CCC problems today. Learned `Object Literal declaration`,`Classes`, `getters and setters`, `modules - script tag`,`import and export`, and `Promise`
 
 ### Day 7: January 29, 2021 - Friday
 
