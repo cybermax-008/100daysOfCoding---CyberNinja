@@ -14,6 +14,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
+### Day 9: January 31, 2021 - Sunday
+
+**Today's Project(s) :**
+  - Python : CCC 2013 and CCC 2014
+  
+ **Progress:**
+  - COmpleted J1,J2 and J3 in CCC 2013
+  - COmpleted J1 CCC 2014
+  
+ **Link to work:**
+ - [CCC 2013 and CCC 2014](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day9_Jan31_2021)
+ 
+ **Thoughts:**
+ Time spent: 2hrs. Wsa able to solve CCC problems today. 
+
 ### Day 8: January 30, 2021 - Saturday
 
 **Today's Project(s) :**
