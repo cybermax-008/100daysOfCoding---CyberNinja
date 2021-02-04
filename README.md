@@ -14,6 +14,34 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
+### Day 12: Febraury 03, 2021 - Wednesday
+
+**Today's Project(s) :**
+  - Python : Quora interview questions
+  
+ **Progress:**
+  - Solved total of 4 interview question 
+  
+ **Link to work:**
+ - [Quora 2021 New grad interview questions](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day12_Feb03_2021)
+ 
+ **Thoughts:**
+ Time spent: 1hr. Was able to solve 4 questions in one hour. Good Job!
+
+### Day 11: Febraury 02, 2021 - Tuesday
+
+**Today's Project(s) :**
+  - Python : CCC 2018 J3 Problem
+  
+ **Progress:**
+  - COmpleted J3 of 2018 CCC paper
+  
+ **Link to work:**
+ - [CCC 2018 J3](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day11_Feb02_2021)
+ 
+ **Thoughts:**
+ Time spent: 1hr.Was able to solve only one question.
+
 ### Day 10: Febraury 01, 2021 - Monday
 
 **Today's Project(s) :**
