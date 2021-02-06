@@ -14,6 +14,34 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
+### Day 14: Febraury 05, 2021 - Friday
+
+**Today's Project(s) :**
+  - Python : Aamzon Leetcode Arrays and Strings
+  
+ **Progress:**
+  - Solved three_sum and longest substring problems
+  
+ **Link to work:**
+ - [threeSum and LongestSubStrings](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day14_Feb05_2021)
+ 
+ **Thoughts:**
+ Time spent: 2 hrs. Learned about sliding window concept for getting the longest substring.
+
+### Day 13: Febraury 04, 2021 - Thursday
+
+**Today's Project(s) :**
+  - Python : Aamzon Leetcode Arrays and Strings
+  
+ **Progress:**
+  - Solved two_sum question with 2 approaches
+  
+ **Link to work:**
+ - [twoSum solutions](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day13_Feb04_2021)
+ 
+ **Thoughts:**
+ Time spent: 2 hrs. Was able to understand the limitations of brute firce approach and learned to optimize using hashmap.
+
 ### Day 12: Febraury 03, 2021 - Wednesday
 
 **Today's Project(s) :**
