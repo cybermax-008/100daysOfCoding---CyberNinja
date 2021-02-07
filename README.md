@@ -14,10 +14,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
+### Day 15: Febraury 06, 2021 - Saturday
+
+**Today's Project(s) :**
+  - Python : Amazon Leetcode Arrays and Strings and Trees
+  
+ **Progress:**
+  - Solved twoSum, atoi, most common word, sliding window problem, and ValidBST
+  
+ **Link to work:**
+ - [solutions to the problems](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day15_Feb06_2021)
+ 
+ **Thoughts:**
+ Time spent: 4 hrs.
+
 ### Day 14: Febraury 05, 2021 - Friday
 
 **Today's Project(s) :**
-  - Python : Aamzon Leetcode Arrays and Strings
+  - Python : Amazon Leetcode Arrays and Strings
   
  **Progress:**
   - Solved three_sum and longest substring problems
@@ -31,7 +45,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 13: Febraury 04, 2021 - Thursday
 
 **Today's Project(s) :**
-  - Python : Aamzon Leetcode Arrays and Strings
+  - Python : Amazon Leetcode Arrays and Strings
   
  **Progress:**
   - Solved two_sum question with 2 approaches
