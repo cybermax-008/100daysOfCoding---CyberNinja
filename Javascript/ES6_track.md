@@ -60,7 +60,7 @@ Check out this code:
     
   The rest parameter eliminates the need to check the `args` array and allows us to apply `map()`, `filter()` and `reduce()` on the parameters array.
   
-    const  sum = (...args) => args.reduce((a, b) =\> a \+ b, 0);
+    const  sum = (...args) => args.reduce((a, b) => a+ b, 0);
 
 5) Use spread operator `...args` to evaluate arrays in place.
 
@@ -135,7 +135,7 @@ Usually,
 
     const getMousePosition = (x, y) => ({ x, y });
     
-  This returns object `{x:x,y:y`
+  This returns object `{x:x,y:y}`
   
   13) Write Concise Declarative Functions with ES6
 
@@ -157,7 +157,7 @@ USsually ,
     
   14) Use class Syntax to Define a `Constructor` Function
 
-Usually, to create a class,
+   Usually, to create a class,
     var SpaceShuttle = function(targetPlanet){
       this.targetPlanet = targetPlanet;
     }
