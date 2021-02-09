@@ -14,6 +14,36 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
+### Day 17: Febraury 08, 2021 - Monday
+
+**Today's Project(s) :**
+  - Python : Amazon Leetcode Linked List 
+  - Python : CCC 2016 J5
+  
+ **Progress:**
+  - Solved merging two linked list and CCC 2016 J5 problem
+  
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day17_Feb08_2021)
+ 
+ **Thoughts:**
+ Time spent: 4 hrs.
+
+### Day 16: Febraury 07, 2021 - Sunday
+
+**Today's Project(s) :**
+  - Python : Amazon Leetcode Linked List
+  - Python : Linked List using `deque` and custom class.
+  
+ **Progress:**
+  - Solved adding two linked list
+  
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day16_Feb07_2021)
+ 
+ **Thoughts:**
+ Time spent: 4 hrs.
+
 ### Day 15: Febraury 06, 2021 - Saturday
 
 **Today's Project(s) :**
