@@ -4,17 +4,19 @@ class Solution(object):
         :type logs: List[str]
         :rtype: List[str]
         """
-        letter_logs, digit_logs = [], []
-        for log in logs:
-            if log.split()[1].isalpha():
-                letter_logs.append(log)
-            else:
-                digit_logs.append(log)
-        print(letter_logs,digit_logs)
+        letter_logs = []
+        numeric_logs = []
         
-        letter_logs.sort(key = lambda x:x.split()[0])
-        letter_logs.sort(key = lambda x:x.split()[1:])
-        return letter_logs+digit_logs
+        for log in logs:
+            log_type = log.split(" ",1)[1]
+            if log_type[0].isdigit():
+                numeric_logs.append(log)
+            else:
+                letter_logs.append(log)
+                
+        letter_logs.sort(key= lambda log: log.split()[0])
+        letter_logs.sort(key= lambda log: log.split()[1:])
+        return letter_logs+numeric_logs
 
 class Solution:
     def reorderLogFiles(self, logs: List[str]) -> List[str]:
