@@ -14,6 +14,48 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
+### Day 19: Febraury 11, 2021 - Thursday
+
+**Today's Project(s) :**
+  - Python : Amazon Leetcode Trees/Graphs
+  
+ **Progress:**
+  - Solved Binary tree traversal level by level, Binary tree traversal zig zag, Number of Isalnds
+  
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day20_Feb10_2021)
+ 
+ **Thoughts:**
+ Time spent: 4 hrs. Learned about DFS and Using recursion in these kind of problems.
+
+### Day 19: Febraury 10, 2021 - Wednesday
+
+**Today's Project(s) :**
+  - Python : Amazon Leetcode Revision
+  
+ **Progress:**
+  - Solved all problems from Arrays, Linked List, sorting.
+  
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day19_Feb10_2021)
+ 
+ **Thoughts:**
+ Time spent: 4 hrs. Was able to solve all the problems once again. Learned the fundamantal basis of each problem.
+
+### Day 18: Febraury 09, 2021 - Tuesday
+
+**Today's Project(s) :**
+  - Python : Amazon Leetcode Sorting
+  
+ **Progress:**
+  - Solved KclosetPoints, KthLargestElement, topKfrequentElements
+  
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day18_Feb09_2021)
+ 
+ **Thoughts:**
+ Time spent: 4 hrs.Was able to use sorting with key parameter. Learned to use `lambda` funtion.
+
 ### Day 17: Febraury 08, 2021 - Monday
 
 **Today's Project(s) :**
