@@ -14,7 +14,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
-### Day 19: Febraury 11, 2021 - Thursday
+### Day 21: Febraury 14, 2021 - Sunday
+
+**Today's Project(s) :**
+  - C++ : Amazon leetcode
+  
+ **Progress:**
+  - Solved twoSum problem using bruteForce and One pass approach.
+  
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/C++/Day21_Feb10_2021)
+ 
+ **Thoughts:**
+ Time spent: 2 hrs. Learned about using Vector and hash map in C++. `auto` keyword usage.
+
+### Day 20: Febraury 11, 2021 - Thursday
 
 **Today's Project(s) :**
   - Python : Amazon Leetcode Trees/Graphs
@@ -28,21 +42,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
  **Thoughts:**
  Time spent: 4 hrs. Learned about DFS and Using recursion in these kind of problems.
 
-### Day 20: Febraury 14, 2021 - Sunday
 
-**Today's Project(s) :**
-  - C++ : Amazon leetcode
-  
- **Progress:**
-  - Solved twoSum problem using bruteForce and One pass approach.
-  
- **Link to work:**
- - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/C++/Day20_Feb10_2021)
- 
- **Thoughts:**
- Time spent: 2 hrs. Learned about using Vector and hash map in C++. `auto` keyword usage.
-
-### Day 19: Febraury 10, 2021 - Wednesday
+### Day :19 Febraury 10, 2021 - Wednesday
 
 **Today's Project(s) :**
   - Python : Amazon Leetcode Revision
