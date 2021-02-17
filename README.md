@@ -14,6 +14,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
+### Day 23: Febraury 16, 2021 - Tuesday
+
+**Today's Project(s) :**
+  - Python : CCC 2016 J3 and J4
+  
+ **Progress:**
+ - Completed J3 and J4 from CCC 2016
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day23_Feb16_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr.
+
 ### Day 22: Febraury 15, 2021 - Monday
 
 **Today's Project(s) :**
