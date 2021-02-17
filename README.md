@@ -14,6 +14,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
+### Day 21: Febraury 15, 2021 - Monday
+
+**Today's Project(s) :**
+  - C++ : Implementation of Linked List and Insertion at front, end and after some node.
+  
+ **Progress:**
+  - Create a linked list
+  - Traverse a linked list
+  - Add a node at front
+  - Add a node after certain node
+  - Add a node at the end.
+  
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/C++/Day22_Feb15_2021)
+ 
+ **Thoughts:**
+ Time spent: 2 hrs.
+
 ### Day 21: Febraury 14, 2021 - Sunday
 
 **Today's Project(s) :**
