@@ -14,7 +14,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
-### Day 21: Febraury 15, 2021 - Monday
+### Day 22: Febraury 15, 2021 - Monday
 
 **Today's Project(s) :**
   - C++ : Implementation of Linked List and Insertion at front, end and after some node.
@@ -41,7 +41,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
   - Solved twoSum problem using bruteForce and One pass approach.
   
  **Link to work:**
- - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/C++/Day21_Feb10_2021)
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/C++/Day21_Feb14_2021)
  
  **Thoughts:**
  Time spent: 2 hrs. Learned about using Vector and hash map in C++. `auto` keyword usage.
