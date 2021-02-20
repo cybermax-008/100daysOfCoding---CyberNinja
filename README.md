@@ -10,7 +10,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Goals
 
-- [ ] Code daily either python, javascript, elixir or C++.
+- [ ] Code daily either python, javascript, and C++.
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
