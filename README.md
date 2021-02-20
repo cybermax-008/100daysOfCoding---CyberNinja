@@ -14,6 +14,52 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
+### Day 26: Febraury 19, 2021 - Friday
+
+**Today's Project(s) :**
+  - Python : lexographic smallest palindrome
+  
+ **Progress:**
+ - COmpleted lexographic smallest palindrom problem from TextIQ interview
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day26_Feb19_2021)
+ 
+ **Thoughts:**
+ Time spent: 1.30 hr.
+
+### Day 25: Febraury 18, 2021 - Thursday
+
+**Today's Project(s) :**
+  - C++ : implementation of insertion, deletion, search, display and find Nth node.
+  
+ **Progress:**
+ - Linked list : insert node at beginning, at the end, after a specified node, after a key.
+ - Linked list : deletion of node at beginning, at the end, node position and node key
+ - Search a linked list for a given node.
+ - Find Nth node in given linked list.
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/C++/Day25_Feb18_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr.
+
+### Day 24: Febraury 17, 2021 - Wednesday
+
+**Today's Project(s) :**
+  - C++ : Implementation of Linked List and pointers
+  
+ **Progress:**
+ - C++ implemnetation of `creation` of linked list
+ - C++ implementation of `insertion` and `deletion` of linked list 
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/C++/Day24_Feb17_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr.
+
 ### Day 23: Febraury 16, 2021 - Tuesday
 
 **Today's Project(s) :**
