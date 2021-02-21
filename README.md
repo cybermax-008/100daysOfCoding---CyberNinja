@@ -14,6 +14,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
+### Day 27: Febraury 20, 2021 - Saturday
+
+**Today's Project(s) :**
+  - Python : Bit manipulation
+  
+ **Progress:**
+ - Check if a number is power of 2 : `bitwise ops` , `iteration` and `recursion`.
+ - Count number of `1s` in bit representation of a number : `bitwise`,and `recursion`
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day27_Feb20_2021)
+ 
+ **Thoughts:**
+ Time spent: 1.30 hr.
+
 ### Day 26: Febraury 19, 2021 - Friday
 
 **Today's Project(s) :**
