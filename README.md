@@ -14,6 +14,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
+### Day 28: Febraury 20, 2021 - Sunday
+
+**Today's Project(s) :**
+  - Python : check_ith_bit
+  - Flickr dataset annotation csv preparation
+  
+ **Progress:**
+ - Check if ith bit of a number is 1 or not
+ - Using the tokens txt of Flickr dataset, prepared the consolidated annotation csv that contains :`img_name`, `index` and `captions`
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day28_Feb21_2021)
+ 
+ **Thoughts:**
+ Time spent: 2 hrs of coding. Learned that `read_csv` in pandas is actually time consuming than custom `read_csv` fucntion that i created.
+
 ### Day 27: Febraury 20, 2021 - Saturday
 
 **Today's Project(s) :**
