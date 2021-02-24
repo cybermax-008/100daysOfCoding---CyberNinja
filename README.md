@@ -14,7 +14,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
-### Day 28: Febraury 20, 2021 - Sunday
+### Day 29: Febraury 22, 2021 - Monday
+
+**Today's Project(s) :**
+  - Python : Bit manipulation and Linked list implementation
+  
+ **Progress:**
+ - Linked list implementation : `creation`, `push`, `append`, `insert_after`, `delete_key`, `delete_pos`, `delete_start and end`, `search_key`, `getNthNode`.
+ - `Check equality`, `check even or odd`, `decimal to binary`, `set ith bit`, `toggle ith bit`, `subset of set` using Bit Manipulation.
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day29_Feb22_2021)
+ 
+ **Thoughts:**
+ Time spent: 2 hrs of coding. Learned bit manipulation importance in coding.
+
+### Day 28: Febraury 21, 2021 - Sunday
 
 **Today's Project(s) :**
   - Python : check_ith_bit
