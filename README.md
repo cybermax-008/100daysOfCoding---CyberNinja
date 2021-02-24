@@ -14,6 +14,37 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
+### Day 31: Febraury 24, 2021 - Wednesday
+
+**Today's Project(s) :**
+  - Python : Intel question leetcode
+  
+ **Progress:**
+ - IMplemented isomorphic problem 
+ - implemneted group anagrams problem
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day31_Feb24_2021)
+ 
+ **Thoughts:**
+ Time spent: 2 hrs of coding. 
+
+### Day 30: Febraury 23, 2021 - Tuesday
+
+**Today's Project(s) :**
+  - Python : Intel question leetcode
+  
+ **Progress:**
+ - IMplemented valid paranthesis problem 
+ - implemented maximum_depth_binary_tree problem
+ - implemented max sub array problem
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day30_Feb23_2021)
+ 
+ **Thoughts:**
+ Time spent: 2 hrs of coding. Learned about graph traversal and using recursion in trees
+
 ### Day 29: Febraury 22, 2021 - Monday
 
 **Today's Project(s) :**
