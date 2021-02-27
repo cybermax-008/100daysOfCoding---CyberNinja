@@ -1,7 +1,3 @@
-query_types = ['insert','addToValue','get','insert','addToKey','addToValue','get']
-query = [[1,2],[2],[1],[2,3],[1],[-1],[3]]
-hashMap = {}
-sum_res=0
 def insert(x,y):
     hashMap[x]=y
 
@@ -19,6 +15,11 @@ def addToKey(x):
 def get(x):
     return hashMap[x]
 
+
+query_types = ['insert','addToValue','get','insert','addToKey','addToValue','get']
+query = [[1,2],[2],[1],[2,3],[1],[-1],[3]]
+hashMap = {}
+sum_res=0
 for t,q in zip(query_types,query):
     if t=='insert':
         insert(q[0],q[1])
@@ -34,3 +35,4 @@ for t,q in zip(query_types,query):
         sum_res+=f
         # print(f)
 print(sum_res)
+    

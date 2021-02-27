@@ -1,13 +1,11 @@
+from collections import defaultdict
 def func(a):
-    m_lst ={}
+    m_lst =defaultdict(list)
     for i in range(len(a)):
         mean = sum(a[i])/len(a[i])
-        if mean in m_lst:
-            m_lst[mean].append(i)
-        else:
-            m_lst[mean]=[i]
+        m_lst[mean].append(i)
 
-    final_list = list(m_lst.values())
+    final_list = m_lst.values()
     return final_list
 
 

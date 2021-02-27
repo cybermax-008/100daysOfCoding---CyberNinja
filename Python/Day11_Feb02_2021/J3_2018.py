@@ -1,9 +1,9 @@
 # CCC 2018
 # Problem J3: Are we there yet?
-
+from collections import defaultdict
 distance_pairs = [int(i) for i in input().split()]
 
-distance_dict = {}
+distance_dict = defaultdict(list)
 
 for i in range(len(distance_pairs)+1):
     city = 'city{}'.format(i+1) # city1
@@ -15,10 +15,7 @@ for i in range(len(distance_pairs)+1):
                 dist = sum(distance_pairs[i:j])
             else:
                 dist = sum(distance_pairs[j:i])
-        if city not in distance_dict:
-            distance_dict[city]= [dist]
-        else:
-            distance_dict[city].append(dist)
+        distance_dict[city].append(dist)
 # print(distance_dict)
 for row in distance_dict.values():
     for ele in row:
