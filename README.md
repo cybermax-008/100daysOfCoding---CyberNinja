@@ -14,6 +14,35 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
+### Day 33: Febraury 26, 2021 - Friday
+
+**Today's Project(s) :**
+  - Python : templete macthing and stack length problem
+  
+ **Progress:**
+ - Implemented hackerrank python questions.
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day33_Feb26_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding.
+
+### Day 32: Febraury 25, 2021 - Thursday
+
+**Today's Project(s) :**
+  - Python : ThreeSum two pointer approach 
+  
+ **Progress:**
+ - Learned how to implement two sum with sorted array.
+ - Used similar approach to solve threeSum problem
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day32_Feb25_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding. Learned the usage of two pointers in sorted array. 
+
 ### Day 31: Febraury 24, 2021 - Wednesday
 
 **Today's Project(s) :**
