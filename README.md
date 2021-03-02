@@ -14,6 +14,36 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
+### Day 36: March 1, 2021 - Monday
+
+**Today's Project(s) :**
+  - Python : CoderByte problems 
+  
+ **Progress:**
+ - Letter count problem from CoderByte
+ - PlusMinus problem from CoderByte
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day34_Feb27_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding.
+
+### Day 35: Febraury 28, 2021 - Sunday
+
+**Today's Project(s) :**
+  - Python : CoderByte problems 
+  
+ **Progress:**
+ - Letter count problem from CoderByte
+ - PlusMinus problem from CoderByte
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day34_Feb27_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding.
+
 ### Day 34: Febraury 27, 2021 - Saturday
 
 **Today's Project(s) :**
