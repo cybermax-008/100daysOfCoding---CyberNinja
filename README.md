@@ -14,17 +14,46 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
-### Day 36: March 1, 2021 - Monday
+### Day 38: March 03, 2021 - Tuesday
 
 **Today's Project(s) :**
-  - Python : CoderByte problems 
+  - Python : Bit manipulation
   
  **Progress:**
- - Letter count problem from CoderByte
- - PlusMinus problem from CoderByte
+ - Nearest integer that is power of 2 for a given number
+ - Toggle the ith bit value.
  
  **Link to work:**
- - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day34_Feb27_2021)
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day37_Mar02_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding.
+
+### Day 37: March 02, 2021 - Wednesday
+
+**Today's Project(s) :**
+  - Python : Bit manipulation
+  
+ **Progress:**
+ - Subset of a given set using bit manipulation
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day37_Mar02_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding.
+
+### Day 36: March 01, 2021 - Monday
+
+**Today's Project(s) :**
+  - Python : Bit manipulation
+  
+ **Progress:**
+ - Check if a number is odd or even using Bitwise operation
+ - check if a number is power of 2
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day36_Mar01_2021)
  
  **Thoughts:**
  Time spent: 1 hr of coding.
@@ -32,14 +61,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 35: Febraury 28, 2021 - Sunday
 
 **Today's Project(s) :**
-  - Python : CoderByte problems 
+  - Python : Intel interview question
   
  **Progress:**
- - Letter count problem from CoderByte
- - PlusMinus problem from CoderByte
+ - Product of array except self
  
  **Link to work:**
- - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day34_Feb27_2021)
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day35_Feb28_2021)
  
  **Thoughts:**
  Time spent: 1 hr of coding.
