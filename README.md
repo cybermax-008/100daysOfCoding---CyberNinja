@@ -14,7 +14,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
-### Day 38: March 03, 2021 - Tuesday
+### Day 39: March 04, 2021 - Thursday
+
+**Today's Project(s) :**
+  - Python : datetime and adjancency_list
+  
+ **Progress:**
+ - Program to find the daya between two dates
+ - Program to find the end date from a start date using elapsed days
+ - Build a graph based on adjancency list using dictionary
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day39_Mar04_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding.
+
+### Day 38: March 03, 2021 - Wednesday
 
 **Today's Project(s) :**
   - Python : Bit manipulation
@@ -24,12 +40,12 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
  - Toggle the ith bit value.
  
  **Link to work:**
- - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day37_Mar02_2021)
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day38_Mar03_2021)
  
  **Thoughts:**
  Time spent: 1 hr of coding.
 
-### Day 37: March 02, 2021 - Wednesday
+### Day 37: March 02, 2021 - Tuesday
 
 **Today's Project(s) :**
   - Python : Bit manipulation
