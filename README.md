@@ -14,6 +14,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
+### Day 40: March 05, 2021 - Friday
+
+**Today's Project(s) :**
+  - Bash : Variables and echo statments
+  
+ **Progress:**
+ - Learned using `Vi` editor and initializing variables in bash script.
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Bash/Day40_Mar05_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding.
+
 ### Day 39: March 04, 2021 - Thursday
 
 **Today's Project(s) :**
