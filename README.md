@@ -391,7 +391,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 14: Febraury 05, 2021 - Friday
 
 **Today's Project(s) :**
-  - Python : Amazon Leetcode Arrays and Strings
+  - Python : Amazon Leetcode Arrays and Strings : [Three sum](https://leetcode.com/problems/3sum/) and [Longest Substrin](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
   
  **Progress:**
   - Solved three_sum and longest substring problems
@@ -405,7 +405,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 13: Febraury 04, 2021 - Thursday
 
 **Today's Project(s) :**
-  - Python : Amazon Leetcode Arrays and Strings
+  - Python : Amazon Leetcode Arrays and Strings : [Two sum](https://leetcode.com/problems/two-sum/)
   
  **Progress:**
   - Solved two_sum question with 2 approaches
@@ -433,7 +433,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 11: Febraury 02, 2021 - Tuesday
 
 **Today's Project(s) :**
-  - Python : CCC 2018 J3 Problem
+  - Python : [CCC 2018](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/blob/main/Python/Question_bank/ccc_2018.pdf) J3 Problem
   
  **Progress:**
   - COmpleted J3 of 2018 CCC paper
@@ -447,7 +447,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 10: Febraury 01, 2021 - Monday
 
 **Today's Project(s) :**
-  - Python : CCC 2014 and CCC 2015
+  - Python : [CCC 2014](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/blob/main/Python/Question_bank/ccc_2014.pdf) and [CCC 2015](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/blob/main/Python/Question_bank/ccc_2015.pdf)
   
  **Progress:**
   - COmpleted J2,J3 in CCC 2014
@@ -462,7 +462,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 9: January 31, 2021 - Sunday
 
 **Today's Project(s) :**
-  - Python : CCC 2013 and CCC 2014
+  - Python : [CCC 2013](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/blob/main/Python/Question_bank/ccc_2013.pdf) and [CCC 2014](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/blob/main/Python/Question_bank/ccc_2014.pdf)
   
  **Progress:**
   - COmpleted J1,J2 and J3 in CCC 2013
@@ -482,8 +482,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
   
  **Progress:**
   - Completed 15 to 31 problems in ES6 track. All problems are completed in this track now.
-  - COmpleted J2 and J3 in CCC 2011
-  - COmpleted J1,J2 and J3 in CCC 2012
+  - COmpleted J2 and J3 in [CCC 2011](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/blob/main/Python/Question_bank/ccc_2011.pdf)
+  - COmpleted J1,J2 and J3 in [CCC 2012](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/blob/main/Python/Question_bank/ccc_2012.pdf)
   
  **Link to work:**
  - [ES6 15 to 31](https://www.freecodecamp.org/cybermax008)
@@ -513,7 +513,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
   - Python : few problems from CCC_2010 and CCC_2011 
   
  **Progress:**
-  - Completed J1 from 2011 and J2,J3 from 2010
+  - Completed J1 from [2011](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/blob/main/Python/Question_bank/ccc_2011.pdf) and J2,J3 from [2010](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/blob/main/Python/Question_bank/ccc_2010.pdf)
   
  **Link to work:**
  - [CCC_2010 & CCC_2011](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day6_Jan28_2021)
