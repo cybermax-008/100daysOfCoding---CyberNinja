@@ -528,7 +528,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
   - FCC : JS Basics track 
   
  **Progress:**
-  - Problem J1: What is n, Daddy? CCC 2010.
+  - [Problem J1: What is n, Daddy? CCC 2010.](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/blob/main/Python/Question_bank/ccc_2010.pdf)
   - Element-wise arithematic ops of two lists using List comprehension
   - Completed 101 to 109 in FCC: Javascript Basics track
   
@@ -544,7 +544,7 @@ In Javascript, Learned and solved problems on Recursion. But, still unable to un
 ### Day 4: January 26, 2021 - Tuesday
 
 **Today's Project(s) :**
-  - Python : Graph Representation usin Adjacency List and BFS Basic implementation using Python
+  - Python : Graph Representation using Adjacency List and BFS Basic implementation using Python
  **Progress:**
   - Script for Undirected graph creation.
   - Script for directed graph creation.
@@ -594,12 +594,10 @@ Time spent in coding : 2 hr 48min. Though i was able to do only 5 questions, lea
 **Today's Project(s) :**
   - FCC : JS Algo and DS
   - Python : datetime module
-  - Elixir - Introduction to defmodules
  
  **Progress:**
   - completed 59 to 91 code snippets in Basic JS: JS Algo and DS track. 
   - Completed two programs using datetime module in python
-  - Started learning Elixir - completed three sample programs using defmodules
   
  **Link to work:**
  - [Exercise 59 to 91(see the timeline)](https://www.freecodecamp.org/cybermax008)
