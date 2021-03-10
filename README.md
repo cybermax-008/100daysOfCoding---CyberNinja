@@ -14,6 +14,36 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
+### Day 41: March 07, 2021 - Sunday
+
+**Today's Project(s) :**
+  - Python : Implementing Queue and Stack using Linked list
+  
+ **Progress:**
+ - IMplementing Queue ops like `enqueue`, `dequeue`, `isEmpty`, `size`. using only one pointer `head`
+ - Implementing Stack ops like `push`, `pop` using only one pointer `head`
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day42_Mar07_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding.
+
+### Day 41: March 06, 2021 - Saturday
+
+**Today's Project(s) :**
+  - Python : Implementing Queue and Stack using list
+  
+ **Progress:**
+ - IMplementing Queue ops like `enqueue`, `dequeue`, `isEmpty`, `size` with List methods.
+ - Implementing Stack ops like `push`, `pop` with List methods.
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day41_Mar06_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding.
+
 ### Day 40: March 05, 2021 - Friday
 
 **Today's Project(s) :**
