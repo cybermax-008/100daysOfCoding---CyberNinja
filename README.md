@@ -14,7 +14,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
-### Day 41: March 07, 2021 - Sunday
+### Day 43: March 08, 2021 - Monday
+
+**Today's Project(s) :**
+  - Python : Implementing linked list using custom class(revision)
+  
+ **Progress:**
+ - IMplementing linked list ops : `insert_at_beginning`, `insert_at_ending`, `insert_after_value` and `remove_by_value`
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day43_Mar08_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding.
+
+### Day 42: March 07, 2021 - Sunday
 
 **Today's Project(s) :**
   - Python : Implementing Queue and Stack using Linked list
