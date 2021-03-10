@@ -14,6 +14,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
+### Day 44: March 09, 2021 - Tuesday
+
+**Today's Project(s) :**
+  - Python : Implementing Queue using doubly linked list
+  
+ **Progress:**
+ - IMplementing Queue ops like `enqueue`, `dequeue`, `isEmpty`, `size`. using only one pointer `head`
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day44_Mar09_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding.
+
 ### Day 43: March 08, 2021 - Monday
 
 **Today's Project(s) :**
