@@ -14,6 +14,62 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
+### Day 48: March 13, 2021 - Saturday
+
+**Today's Project(s) :**
+  - Python : 
+  
+ **Progress:**
+ - IMplementing 
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day47_Mar12_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding.
+
+### Day 47: March 12, 2021 - Friday
+
+**Today's Project(s) :**
+  - Python : 
+  
+ **Progress:**
+ - IMplementing 
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day47_Mar12_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding.
+
+### Day 46: March 11, 2021 - Thursday
+
+**Today's Project(s) :**
+  - Python : Implementing Stock price problem, second largest in an array
+  
+ **Progress:**
+ - IMplementing of Buy and sale day of stock price with maximum profit
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day46_Mar11_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding.
+
+### Day 45: March 10, 2021 - Wednesday
+
+**Today's Project(s) :**
+  - Python : Implementing Binary Tree
+  
+ **Progress:**
+ - IMplementing of Binary Tree - `insert_node` , `find_node`, `pre-order` , `in-order`, `post-order` and `bfs`
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day45_Mar10_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding.
+
 ### Day 44: March 09, 2021 - Tuesday
 
 **Today's Project(s) :**
