@@ -14,16 +14,58 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
+### Day 51: March 15, 2021 - Tuesday
+
+**Today's Project(s) :**
+  - Python : Merge Sort
+  
+ **Progress:**
+ - IMplementing merge sort
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day51_Mar16_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding.
+
+### Day 50: March 15, 2021 - Monday
+
+**Today's Project(s) :**
+  - Python : Merge Sort
+  
+ **Progress:**
+ - IMplementing merge sort
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day50_Mar15_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding.
+
+### Day 49: March 14, 2021 - Sunday
+
+**Today's Project(s) :**
+  - Python : Merge Sort
+  
+ **Progress:**
+ - IMplementing merge sort
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day49_Mar14_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding.
+
 ### Day 48: March 13, 2021 - Saturday
 
 **Today's Project(s) :**
-  - Python : 
+  - Python : Merge Sort
   
  **Progress:**
- - IMplementing 
+ - IMplementing merge sort
  
  **Link to work:**
- - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day47_Mar12_2021)
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day48_Mar13_2021)
  
  **Thoughts:**
  Time spent: 1 hr of coding.
@@ -31,10 +73,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 47: March 12, 2021 - Friday
 
 **Today's Project(s) :**
-  - Python : 
+  - Python : spell check program
   
  **Progress:**
- - IMplementing 
+ - IMplementing a program that checks if a word is a valid vocabulary.
  
  **Link to work:**
  - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day47_Mar12_2021)
