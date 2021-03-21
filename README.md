@@ -14,13 +14,60 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
-### Day 51: March 15, 2021 - Tuesday
+### Day 54: March 19, 2021 - Friday
 
 **Today's Project(s) :**
-  - Python : Merge Sort
+  - Python : Leetcode Easy and Medium interview practice
   
  **Progress:**
- - IMplementing merge sort
+ - Reverse a linked list using temp variable
+ - find the elements in an array that gives the sum to a target using hasmap.
+ - find valid paranthesis using stack
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day53_Mar18_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding.
+
+### Day 53: March 18, 2021 - Thursday
+
+**Today's Project(s) :**
+  - Python : Leetcode Easy and Medium interview practice
+  
+ **Progress:**
+ - Finding the number of unique email address based on the rules given.
+ - Find the intersection of two arrays using hashmap.(without using set)
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day53_Mar18_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding.
+
+### Day 52: March 17, 2021 - Wednesday
+
+**Today's Project(s) :**
+  - Python : Leetcode Easy and Medium interview practice
+  
+ **Progress:**
+ - Remove duplicates from a sorted linked list.
+ - Remove duplicates from a sorted linked list such a way only the unique elements are retained.
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day52_Mar17_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding.
+
+### Day 51: March 16, 2021 - Tuesday
+
+**Today's Project(s) :**
+  - Python : Leetcode Easy and Medium interview practice
+  
+ **Progress:**
+ - Check if the linked list is a cycle - if the lst node is connected back to any of the intermediate nodes.
+ - Check and print th index of the node if the linked list is a cycle.
  
  **Link to work:**
  - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day51_Mar16_2021)
@@ -31,10 +78,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 50: March 15, 2021 - Monday
 
 **Today's Project(s) :**
-  - Python : Merge Sort
+  - Python : Leetcode Easy and Medium interview practice
   
  **Progress:**
- - IMplementing merge sort
+ - IMplementing group anagrams using hasmap with key as sorted word
+ - Implementing group shifted pattern using hasmap with key as tuple that contains the shift pattern.
  
  **Link to work:**
  - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day50_Mar15_2021)
@@ -45,10 +93,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 49: March 14, 2021 - Sunday
 
 **Today's Project(s) :**
-  - Python : Merge Sort
+  - Python : Leetcode Easy and Medium interview practice
   
  **Progress:**
- - IMplementing merge sort
+ - IMplementing Adding Two numbers represented in reverse orderd linked list
+ - Find the first uniqur character in a string using hasmap
  
  **Link to work:**
  - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day49_Mar14_2021)
