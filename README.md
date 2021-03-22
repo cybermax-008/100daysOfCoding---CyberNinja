@@ -14,6 +14,38 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Become proficient in problem solving.
 - [ ] Become proficient in Data structures and Algorithms.
 
+### Day 56: March 21, 2021 - Sunday
+
+**Today's Project(s) :**
+  - Python : Leetcode Easy and Medium interview practice
+  
+ **Progress:**
+ - Pathsum in a Binary tree
+ - Biniary tree level order traversal
+ - Build BST from a sortedArray
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day56_Mar21_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding.
+
+### Day 55: March 20, 2021 - Saturday
+
+**Today's Project(s) :**
+  - Python : Leetcode Easy and Medium interview practice
+  
+ **Progress:**
+ - Max depth of a BST
+ - Min depth of a BST
+ - Merge two Binary Trees
+ 
+ **Link to work:**
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day55_Mar20_2021)
+ 
+ **Thoughts:**
+ Time spent: 1 hr of coding.
+
 ### Day 54: March 19, 2021 - Friday
 
 **Today's Project(s) :**
@@ -25,7 +57,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
  - find valid paranthesis using stack
  
  **Link to work:**
- - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day53_Mar18_2021)
+ - [solutions to the problem](https://github.com/cybermax-008/100daysOfCoding---CyberNinja/tree/main/Python/Day54_Mar19_2021)
  
  **Thoughts:**
  Time spent: 1 hr of coding.
