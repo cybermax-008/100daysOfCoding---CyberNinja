@@ -6,7 +6,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| January 21, 2021 | May 1, 2021 |
+| January 21, 2021 | March 15, 2021 |
 
 ## Goals
 
